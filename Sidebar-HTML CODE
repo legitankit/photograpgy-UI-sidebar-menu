@@ -45,10 +45,10 @@
       </ul>
     </div class="iconparentdiv">
     <div class="end_icons">
-      <a href="https://www.facebook.com/legitankit"><i class="fa-brands fa-facebook"></i></a>
-      <a href="https://x.com/legit_ankit"><i class="fa-brands fa-twitter"></i></a>
-      <a href="https://www.instagram.com/legit.ankit"><i class="fa-brands fa-square-instagram"></i></a>
-      <a href=""><i class="fa-brands fa-youtube"></i></a>
+      <a href="https://www.facebook.com/legitankit"><i class="fa-brands fa-facebook" style="color:black;"></i></a>
+      <a href="https://x.com/legit_ankit"><i class="fa-brands fa-twitter" style="color:black;"></i></a>
+      <a href="https://www.instagram.com/legit.ankit"><i class="fa-brands fa-square-instagram" style="color:black;"></i></a>
+      <a href="#not-linked"><i class="fa-brands fa-youtube" style="color:black;"></i></a>
     </div>
   </div>
 
